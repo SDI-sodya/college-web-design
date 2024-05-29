@@ -196,6 +196,10 @@ body {
 }
 
 /* Blog. Homepage */
+.blog-slider {
+  margin-bottom: 80px;
+}
+
 .blog-image {
   width: 100%;
 }
