@@ -1,0 +1,35 @@
+/* Footer */
+.footer {
+  background-color: #A1C398;
+  padding: 15px 0;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-section {
+  width: 25%;
+}
+
+.footer-section-logo {
+  margin: 0 auto;
+  /* margin-left: 150px; */
+  width: 200px;
+}
+
+.footer-logo {
+  width: 100%;
+}
+
+.footer-navigation .nav-elem{
+  margin: 15px 0;
+}
+
+.copywrite {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 13px;
+}

@@ -1,0 +1,41 @@
+/* Header */
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.header {
+  margin-bottom: 20px;
+  background-color: #C6EBC5;
+}
+
+.section-logo {
+  text-align: center;
+  margin-left: 150px;
+}
+
+.section-logo-container {
+  width: 200px;
+}
+
+.logo {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.logo-img {
+  width: 100%;
+}
+
+.header-navigation {
+  text-transform: uppercase;
+  display: flex;
+  text-align: center;
+}
+
+.header-navigation li {
+  padding: 0 20px;
+}
