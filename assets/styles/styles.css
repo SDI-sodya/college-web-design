@@ -272,7 +272,37 @@ body {
 
 
 /* Shop page */
-.shop-title {
+.shop-title, .contacts-title {
   font-weight: bold;
   margin: 30px 0 40px;
+}
+
+
+/* Contacts page */
+.contacts-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contacts-article-map {
+  margin: 0 50px 150px 0;
+}
+
+.contacts-subtitle {
+  font-size: 30px;
+  margin: 10px 0;
+  font-weight: 600;
+}
+
+.contacts-list {
+  margin: 25px 0;
+}
+
+.list-elem {
+  display: flex;
+  margin: 30px 0;
+}
+
+.list-elem i {
+  padding: 0 20px 0 0;
 }
