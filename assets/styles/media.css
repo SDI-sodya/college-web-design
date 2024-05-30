@@ -18,6 +18,28 @@
   .item-title {
     font-size: 19px;
   }
+
+  .show-container {
+    flex-direction: column;
+  }
+
+  .show-image {
+    width: 100% !important;
+    margin: 0 auto;
+  }
+
+  .show-to-cart .title {
+    text-align: center !important;
+  }
+
+  .show-to-cart {
+    text-align: center;
+    padding: 0 !important;
+  }
+
+  .show-info-container {
+    margin: 0 30px;
+  }
 }
 
 @media (max-width: 768px) {
@@ -107,5 +129,4 @@
   .contacts-info {
     margin: 0 30px 150px;
   }
-  
 }
